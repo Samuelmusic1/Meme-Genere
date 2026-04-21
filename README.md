@@ -1,19 +1,15 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+This project was built to deepen my understanding of React and strengthen my ability to build interactive applications.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+I focused on implementing controlled components, where form inputs are tied to the state and updated on every keystroke. This helped me better understand state management and real-time UI updates in React.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+I also explored improved approaches to handling forms, making the code more structured and predictable.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+In addition, I learned the core principles of functional programming:
 
-Happy Coding!
+- Pure functions
+- Immutability
+- Avoiding side effects
+
+This gave me a clearer understanding of how side effects work and why they should be managed carefully in React.
+
+Finally, I learned how to fetch data from an API using React and how to handle side effects properly with useEffect().
