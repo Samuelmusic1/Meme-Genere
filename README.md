@@ -13,3 +13,6 @@ In addition, I learned the core principles of functional programming:
 This gave me a clearer understanding of how side effects work and why they should be managed carefully in React.
 
 Finally, I learned how to fetch data from an API using React and how to handle side effects properly with useEffect().
+
+
+https://memegeneratorappli.netlify.app/
